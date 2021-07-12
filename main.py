@@ -4,7 +4,7 @@ from PyQt5.QtWidgets import QFileDialog
 import cv2
 import operator
 import numpy as np
-from keras.models import load_model
+from tensorflow.keras.models import load_model
 
 class sudoku:
 
