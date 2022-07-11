@@ -300,5 +300,5 @@ def main(img):
     draw_text(pre, sudoku, sudoku_tosolvee)
 
 # thu
-img = cv2.imread('sudoku_example.jpg')
+img = cv2.imread('images/sudoku_example.jpg')
 main(img)
